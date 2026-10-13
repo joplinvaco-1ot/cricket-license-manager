@@ -1,0 +1,17 @@
+{
+  "app_active": true,
+  "users": [
+    {
+      "uid": "123456789",
+      "gmail": "user1@gmail.com",
+      "mobile": "923001234567",
+      "status": "active"
+    },
+    {
+      "uid": "987654321",
+      "gmail": "user2@gmail.com",
+      "mobile": "923009876543",
+      "status": "blocked"
+    }
+  ]
+}
