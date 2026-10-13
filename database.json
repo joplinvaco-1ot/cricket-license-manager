@@ -1,17 +1,20 @@
 {
-  "app_active": true,
   "users": [
     {
-      "uid": "123456789",
-      "gmail": "user1@gmail.com",
-      "mobile": "923001234567",
+      "uid": "YAHAN_USER_KA_PC_UID_AAYEGA",
+      "channel_name": "Pavilion Talk",
+      "gmail": "user@gmail.com",
+      "mobile": "+923001234567",
+      "expiry_date": "2026-12-31 23:59:59",
       "status": "active"
     },
     {
-      "uid": "987654321",
-      "gmail": "user2@gmail.com",
-      "mobile": "923009876543",
-      "status": "blocked"
+      "uid": "DOOSRE_USER_KI_UID",
+      "channel_name": "Dugout Talk",
+      "gmail": "another@gmail.com",
+      "mobile": "+923339876543",
+      "expiry_date": "2026-06-30 12:00:00",
+      "status": "active"
     }
   ]
 }
