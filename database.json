@@ -23,6 +23,14 @@
       "mobile": "+9779813248470",
       "expiry_date": "2027-12-25 12:00:00",
       "status": "active"
+    },
+    {
+      "uid": "141453750192132",
+      "channel_name": "New User",
+      "gmail": "thw3200@gmail.com",
+      "mobile": "+917545060351",
+      "expiry_date": "2027-11-09 23:59:59",
+      "status": "active"
     }
   ]
 }
